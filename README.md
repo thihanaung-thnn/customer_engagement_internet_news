@@ -9,7 +9,7 @@ output:
 
 
 
-This project is based on the data set of Consumer Engagement Internet News from DataCamp's Workspace Publication Competition. This dataset consists of data about news articles collected from September 3, 2019 until November 4, 2019. 
+This project is based on the data set of Consumer Engagement Internet News from DataCamp's Workspace. This dataset consists of data about news articles collected from September 3, 2019 until November 4, 2019. 
 
 This dataset contains news articles from 13 news sources such as BBC, CNN, New York Times with share, reaction and comment counts each. From this dataset, I found 5 interesting questions.  
 
@@ -774,22 +774,4 @@ pos_neg_words %>%
 ```
 
 It contains "afraid","difficult", etc and no positive words.  
-
----
-
-That's all. It is just general analysis as I am just starting my data science journey. Thanks a lot DataCamp courses. Because of Datacamp, I can analyse as above within just three months, not from computer science or maths background. In my analysis, there is no regression models, no web scraping, no image analysis, no time series analysis that can be done above data set. I need to learn a lot. Thank you so much for your precious time for reading.  Thanks a lot.  
-
----
-
-
-
-
-
-
-
-
-
-
-
-
 
